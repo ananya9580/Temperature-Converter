@@ -39,10 +39,8 @@ Add a screenshot of your project here (optional).
 
 ## 🌐 Live Demo
 
-Add your GitHub Pages link here after deployment.
+Click here to view ( https://ananya9580.github.io/Temperature-Converter/ )
 
-Example:
-https://yourusername.github.io/temperature-converter/
 
 ## 📚 Learning Outcomes
 
