@@ -33,10 +33,6 @@ temperature-converter/
 2. Open the project folder.
 3. Run `index.html` in your web browser.
 
-## 📸 Screenshot
-
-Add a screenshot of your project here (optional).
-
 ## 🌐 Live Demo
 
 Click here to view ( https://ananya9580.github.io/Temperature-Converter/ )
